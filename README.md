@@ -9,7 +9,7 @@ Just a full-stack developer (focused in script development) and a DevOps Enginee
 - :computer: Technology lover since 8yo
 - :video_game: Game lover
 
-### Social Medias:
+### Social medias:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://br.linkedin.com/cayohollanda)
 [<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/steam.svg"/>](https://steamcommunity.com/id/youkag)
 [<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg"/>](https://facebook.com/cayohollanda1)

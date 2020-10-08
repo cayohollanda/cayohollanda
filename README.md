@@ -43,10 +43,3 @@ Just a full-stack developer (focused in script development) and a DevOps Enginee
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cayohollanda&theme=dark&hide=tcl,css,html,batchfile,shell&langs_count=10&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cayohollanda&show_icons=true&theme=dark&count_private=true)
-
-### Open-source projects that I contribute:
-
-![Jeremiah](https://github-readme-stats.vercel.app/api/pin/?username=slack-bot-4all&repo=slack-bot)
-![Runner](https://github-readme-stats.vercel.app/api/pin/?username=matryer&repo=runner)
-![Go_Splunk](https://github-readme-stats.vercel.app/api/pin/?username=cayohollanda&repo=go_splunk)
-![AWS Golang Backup](https://github-readme-stats.vercel.app/api/pin/?username=cayohollanda&repo=aws-golang-backup)

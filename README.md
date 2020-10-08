@@ -6,6 +6,7 @@ Just a full-stack developer (focused in script development) and a DevOps Enginee
 
 - :earth_americas: João Pessoa - Paraíba
 - :books: Graduated in Internet Systems
+- :office: Actually working at [Conductor Tecnologia](https://conductor.com.br)
 - :computer: Technology lover since 8yo
 - :video_game: Game lover
 

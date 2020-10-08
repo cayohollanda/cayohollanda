@@ -7,7 +7,7 @@ Just a full-stack developer (focused in script development) and a DevOps Enginee
 - :earth_americas: João Pessoa - Paraíba
 - :books: Graduated in Internet Systems
 - :computer: Technology lover since 8yo
-- :video_game: Games lover
+- :video_game: Game lover
 
 ### Social Medias:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://br.linkedin.com/cayohollanda)

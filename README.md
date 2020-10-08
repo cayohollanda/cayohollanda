@@ -36,8 +36,6 @@ Just a full-stack developer (focused in script development) and a DevOps Enginee
 <img align="left" alt="Wordpress" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/wordpress.svg">
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linux.svg">
 <img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg">
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg">
-<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/css3.svg">
 
 <br /><br />
 

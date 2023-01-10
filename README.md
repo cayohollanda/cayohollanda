@@ -42,7 +42,7 @@ Just a full-stack developer (focused in script development) and a DevOps Enginee
 
 <div align="center">
   <a href="https://github.com/cayohollanda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manzolidev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cayohollanda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cayohollanda&theme=dark&hide=tcl,css,html,batchfile,shell&langs_count=10&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cayohollanda&show_icons=true&theme=dark&count_private=true)

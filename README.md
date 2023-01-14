@@ -11,11 +11,11 @@ Just a full-stack developer (focused in script development) and a DevOps Enginee
 - :video_game: Game lover
 
 ### Social medias:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://br.linkedin.com/cayohollanda)
-[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/steam.svg"/>](https://steamcommunity.com/id/youkag)
-[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg"/>](https://facebook.com/cayohollanda1)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://instagram.com/cayohollanda)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/cayo_hollanda)
+[<img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://br.linkedin.com/cayohollanda)
+[<img align="left" alt="Steam" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/steam.svg"/>](https://steamcommunity.com/id/youkag)
+[<img align="left" alt="Steam" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg"/>](https://facebook.com/cayohollanda1)
+[<img align="left" alt="Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://instagram.com/cayohollanda)
+[<img align="left" alt="Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/cayo_hollanda)
 
 <br /><br />
 

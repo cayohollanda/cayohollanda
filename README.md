@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cayohollanda&label=Profile%20views&theme=gruvbox" alt="cayohollanda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cayohollanda&theme=gruvbox" alt="cayohollanda" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cayohollanda&theme=gruvbox&column=8" alt="cayohollanda" /></a> </p>
 
 - 🔭 I’m currently working on [Dock Tech](https://dock.tech)
 

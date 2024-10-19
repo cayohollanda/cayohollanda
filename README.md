@@ -32,8 +32,8 @@ Here are some of the technologies I have expertise in:
 ## Let's Connect!
 Feel free to reach out if you want to collaborate or chat about technology, gaming, or anything else!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cayohollanda)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/cayohollanda)
 
 Thanks for visiting my profile! 🚀
 

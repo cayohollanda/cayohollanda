@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cayo</h1>
 <h3 align="center">A passionate Fullstack developer and DevOps Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Dock Tech](https://dock.tech)
+- 🔭 I’m currently working on [Orbbi Tech](https://orbbi.tech)
 
 - 🌱 I’m currently learning **GitHub Actions and more about AWS**
 

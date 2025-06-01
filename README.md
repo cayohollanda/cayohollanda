@@ -1,4 +1,4 @@
-# Hello, I'm a Cayo! 👋
+# Hello, I'm Cayo! 👋
 
 ## About Me
 I'm a passionate DevOps Engineer currently working as a Tech Lead in Cloud at [Orbbi Tech](https://orbbi.tech). I love to develop and actively contribute to open-source projects, believing in the power of community collaboration.
